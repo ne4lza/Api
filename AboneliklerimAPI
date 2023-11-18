@@ -1,0 +1,77 @@
+[
+    {
+        "ProductName": "Spotify",
+        "Plan": "Bireysel",
+        "Price": 34.99
+    },
+    {
+        "ProductName": "Spotify",
+        "Plan": "Duo",
+        "Price": 54.99
+    },
+    {
+        "ProductName": "Spotify",
+        "Plan": "Aile",
+        "Price": 64.99
+    },
+    {
+        "ProductName": "Spotify",
+        "Plan": "Öğrenci",
+        "Price": 21.99
+    },
+    {
+        "ProductName": "Youtube",
+        "Plan": "Bireysel",
+        "Price": 57.99
+    },
+    {
+        "ProductName": "Youtube",
+        "Plan": "Aile",
+        "Price": 119.99
+    },
+    {
+        "ProductName": "Youtube",
+        "Plan": "Öğrenci",
+        "Price": 37.99
+    },
+    {
+        "ProductName": "Netflix",
+        "Plan": "Temel Plan",
+        "Price": 99.99
+    },
+    {
+        "ProductName": "Netflix",
+        "Plan": "Standart Plan",
+        "Price": 149.99
+    },
+    {
+        "ProductName": "Netflix",
+        "Plan": "Özel Plan",
+        "Price": 199.99
+    },
+    {
+        "ProductName": "Disney+",
+        "Plan": "Abonelik",
+        "Price": 64.99
+    },
+    {
+        "ProductName": "Amazon Prime",
+        "Plan": "Abonelik",
+        "Price": 39.99
+    },
+    {
+        "ProductName": "Xbox Game Pass",
+        "Plan": "PC Game Pass",
+        "Price": 109.00
+    },
+    {
+        "ProductName": "Xbox Game Pass",
+        "Plan": "PC Game Pass Ultimate",
+        "Price": 209.00
+    },
+    {
+        "ProductName": "Xbox Game Pass",
+        "Plan": "Konsol Game Pass",
+        "Price": 209.00
+    }
+]
